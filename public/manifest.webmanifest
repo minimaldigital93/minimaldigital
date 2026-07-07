@@ -1,0 +1,17 @@
+{
+    "name": "MinimalDigital",
+    "short_name": "MiniDigital",
+    "description": "Minimal Digital. Maximum Impact. Premium business software: AMS and SmartSell.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0f172a",
+    "theme_color": "#6366f1",
+    "icons": [
+        {
+            "src": "/images/brand/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ]
+}

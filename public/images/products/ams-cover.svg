@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#312e81"/>
+      <stop offset="1" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g fill="#c7d2fe">
+    <rect x="90" y="180" width="90" height="240" rx="8" opacity="0.3"/>
+    <rect x="200" y="120" width="110" height="300" rx="8" opacity="0.45"/>
+    <rect x="330" y="210" width="85" height="210" rx="8" opacity="0.25"/>
+  </g>
+  <g fill="#eef2ff" opacity="0.8">
+    <rect x="218" y="150" width="20" height="20" rx="4"/><rect x="248" y="150" width="20" height="20" rx="4"/><rect x="278" y="150" width="20" height="20" rx="4"/>
+    <rect x="218" y="192" width="20" height="20" rx="4"/><rect x="248" y="192" width="20" height="20" rx="4"/><rect x="278" y="192" width="20" height="20" rx="4"/>
+  </g>
+  <g transform="translate(470,110)">
+    <rect width="260" height="280" rx="20" fill="#ffffff" opacity="0.12"/>
+    <rect x="24" y="24" width="120" height="14" rx="7" fill="#c7d2fe" opacity="0.9"/>
+    <rect x="24" y="60" width="212" height="60" rx="12" fill="#818cf8" opacity="0.5"/>
+    <rect x="24" y="136" width="212" height="10" rx="5" fill="#ffffff" opacity="0.3"/>
+    <rect x="24" y="160" width="170" height="10" rx="5" fill="#ffffff" opacity="0.2"/>
+    <path d="M24 240 L74 214 L124 226 L174 196 L224 208" stroke="#34d399" stroke-width="4" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="90" y="100" font-family="Inter, -apple-system, sans-serif" font-size="42" font-weight="700" fill="#ffffff">AMS</text>
+</svg>

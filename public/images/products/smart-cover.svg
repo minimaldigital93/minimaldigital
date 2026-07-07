@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#064e3b"/>
+      <stop offset="1" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g transform="translate(80,130)">
+    <rect width="320" height="300" rx="20" fill="#ffffff" opacity="0.12"/>
+    <rect x="24" y="24" width="140" height="14" rx="7" fill="#a7f3d0" opacity="0.9"/>
+    <g transform="translate(24,60)" fill="#ecfdf5" opacity="0.9">
+      <rect x="0" y="0" width="4" height="40"/><rect x="8" y="0" width="2" height="40"/><rect x="15" y="0" width="6" height="40"/><rect x="26" y="0" width="3" height="40"/><rect x="34" y="0" width="5" height="40"/><rect x="44" y="0" width="2" height="40"/><rect x="51" y="0" width="7" height="40"/><rect x="63" y="0" width="4" height="40"/><rect x="72" y="0" width="6" height="40"/><rect x="84" y="0" width="3" height="40"/>
+    </g>
+    <g fill="#ffffff">
+      <rect x="24" y="124" width="272" height="34" rx="8" opacity="0.12"/>
+      <rect x="24" y="168" width="272" height="34" rx="8" opacity="0.08"/>
+      <rect x="24" y="212" width="272" height="34" rx="8" opacity="0.05"/>
+    </g>
+    <rect x="24" y="258" width="130" height="24" rx="12" fill="#34d399" opacity="0.7"/>
+  </g>
+  <g transform="translate(450,110)">
+    <rect width="280" height="340" rx="20" fill="#ffffff" opacity="0.12"/>
+    <g transform="translate(28,40)">
+      <rect x="0" y="130" width="36" height="130" rx="6" fill="#34d399" opacity="0.5"/>
+      <rect x="48" y="90" width="36" height="170" rx="6" fill="#34d399" opacity="0.7"/>
+      <rect x="96" y="40" width="36" height="220" rx="6" fill="#6ee7b7" opacity="0.9"/>
+      <rect x="144" y="110" width="36" height="150" rx="6" fill="#34d399" opacity="0.55"/>
+      <rect x="192" y="70" width="36" height="190" rx="6" fill="#34d399" opacity="0.75"/>
+    </g>
+  </g>
+  <text x="80" y="90" font-family="Inter, -apple-system, sans-serif" font-size="42" font-weight="700" fill="#ffffff">SmartSell</text>
+</svg>
