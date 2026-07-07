@@ -4,4 +4,4 @@ Disallow: /admin
 Disallow: /login
 Disallow: /profile
 
-Sitemap: https://minidigital.dev/sitemap.xml
+Sitemap: https://www.minimaldigital.dev/sitemap.xml
